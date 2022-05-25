@@ -6,6 +6,6 @@ class Jugador:
     
 
     def __init__(self, Persona, Nombre, nif, fechaNac):
-        self.Nombre = Persona
+        self.nombre = Persona
         self.nif = Persona
         self.fechaNac = Persona
